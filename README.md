@@ -1,2 +1,0 @@
-# vuetutorial
-Vue Tutorial
